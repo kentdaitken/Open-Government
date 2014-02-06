@@ -19,7 +19,7 @@ The federal government is likewise going to be hosting roundtables on their Open
 
 And Ottawa's doing a great job. Their public consultations: [http://ottawa.ca/en/city-hall/public-consultations/public-engagement/public-engagement-strategy-and-consultations]
 
-That said, the far easier way to keep tabs on upcoming events is to request to be added to a mailing list for a jurisdiction, or follow #OpenGov or #OpenON hashtags on Twitter, or key figures: open government enthusiasts, public officials, key government departments, or awesome organizations like Samara Canada or MaRS in Canada, or the Govlab in the U.S.
+That said, the far easier way to keep tabs on upcoming events is to request to be added to a mailing list for a jurisdiction, or follow #OpenGov or #OpenON hashtags on Twitter, or key figures: open government enthusiasts, public officials, key government departments, or awesome organizations like Samara or MaRS in Canada, or the Govlab in the U.S.
 
 [http://www.samaracanada.com/]
 [http://www.marsdd.com/]
