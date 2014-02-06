@@ -52,7 +52,7 @@ Or, perhaps, Beyond Transparency (also written by many awesome people, also rele
 
 And for these and shorter pieces, The Govlab has done an awesome job curating an Open Government reading list as part of their Gov 3.0 course:
 
-http://govlab.github.io/gov30_spring_14.html
+[http://govlab.github.io/gov30_spring_14.html]
 
 
 Done for now! Let me know if you'd like me to add or clarify anything. Or, just add it yourself! - Kent
