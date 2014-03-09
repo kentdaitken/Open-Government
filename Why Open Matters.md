@@ -3,6 +3,8 @@ Why Open Data Matters
 
 This page is as much for me answering that question for myself as it is for collecting resources. Additions welcome - ask me to make this public or [open an issue](https://github.com/kentdaitken/Open-Government/issues).
 
+Oh yeah, opinions are mine and don't reflect etc. etc. 
+
 ##Definition
 
 “Open data is data that can be freely used, reused and redistributed by anyone – subject only, at most, to the requirement to attribute and sharealike.” - See more at: http://okfn.org/opendata/#sthash.LPAs5hsk.dpuf
