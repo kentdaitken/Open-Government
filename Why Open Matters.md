@@ -5,15 +5,15 @@ Why Open Data Matters
 
 ##Background
 
-*Transparency and democratic control
-*Participation
-*Self-empowerment
-*Improved or new private products and services
-*Innovation
-*Improved efficiency of government services
-*Improved effectiveness of government services
-*Impact measurement of policies
-*New knowledge from combined data sources and patterns in large data volumes
+* Transparency and democratic control
+* Participation
+* Self-empowerment
+* Improved or new private products and services
+* Innovation
+* Improved efficiency of government services
+* Improved effectiveness of government services
+* Impact measurement of policies
+* New knowledge from combined data sources and patterns in large data volumes
 
 
 
