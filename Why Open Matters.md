@@ -1,6 +1,8 @@
 Why Open Data Matters
 =====================
 
+“Open data is data that can be freely used, reused and redistributed by anyone – subject only, at most, to the requirement to attribute and sharealike.” - See more at: http://okfn.org/opendata/#sthash.LPAs5hsk.dpuf
+
 ##Background
 
 *Transparency and democratic control
