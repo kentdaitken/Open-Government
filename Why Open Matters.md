@@ -19,7 +19,7 @@ The [Open Knowledge Foundation](http://okfn.org/opendata/) lists three common re
 2. Releasing Social and Commercial Value
 3. Participation and Engagement
 
-Social and commercial value is straightforward enough. Govlab recently did a census of 500 US businesses largely powered by government data. McKinsey estimates the possibility for $3B in additional value through open data. And Deloitte pegged the value of the [economy for social solutions](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm) at $50B in Canada, alone. To bring that down to a tangible example, the easy one is bus tracker apps: using open GPS data for public transit to give people a more reliable system with which to organize their commutes.
+Social and commercial value is straightforward enough. Govlab recently did a census of 500 US businesses largely powered by government data. McKinsey estimates the possibility for $3 trillion in additional value through open data. And Deloitte pegged the value of the [economy for social solutions](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm) at $50 billion in Canada, alone. To bring that down to a tangible example, the easy one is bus tracker apps: using open GPS data for public transit to give people a more reliable system with which to organize their commutes.
 
 Less waste, more productivity, less stress, better lives.
 
