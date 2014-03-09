@@ -35,6 +35,7 @@ I've started a list of resources, here, to which I'd love additions.
 2. [Deloitte - The Solution Economy](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm)
 3. [Govlab's Open Data 500 (businesses using open data)](http://thegovlab.org/wiki/Open_Data_500)
 4. [111 things that got built with federal government open data at CODE](https://canadianopendataexperience.com/teams)
+5. [Stephanie Piper - The Value of Open Data (Slideshare from the University of Waterloo)](http://www.slideshare.net/stephanie_piper/evaluating-open-data-26944330)
 
 ###Principles
 
