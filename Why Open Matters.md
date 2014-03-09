@@ -23,7 +23,9 @@ Less waste, more productivity, less stress, better lives.
 
 But #1 and #3 are trickier reasons. I'd rather someone else frame up a section on certain kinds of transparency (like the [International Aid Transparency Initiative](http://www.aidtransparency.net/), or corporate transparency.
 
-But for government operations, the [relationship between transparency and participation](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation. It seems that much of the push for open is based on ideology and principles, which is fine. But there are other stakeholders to convince.
+But for government operations, the [relationship between transparency and participation](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation.
+
+Regardless, it seems that much of the push for open is based on ideology and principles, which is fine. But there are other stakeholders to convince.
 
 So if our goal is better societal outcomes, we have work to do in understanding both the economic and social benefits of open data, and developing a long-term lense on the idea.
 
