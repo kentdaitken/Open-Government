@@ -29,20 +29,23 @@ I've started a list of resources, here, to which I'd love additions.
 
 ##Links
 
-###Economic Value
+###On Economic Value
 
 1. [McKinsey - Open Data: Unlocking Innovation and Performance with Liquid Information](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information) 
 2. [Deloitte - The Solution Economy](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm)
 3. [Govlab's Open Data 500 (businesses using open data)](http://thegovlab.org/wiki/Open_Data_500)
 4. [111 things that got built with federal government open data at CODE](https://canadianopendataexperience.com/teams)
 5. [Stephanie Piper - The Value of Open Data (Slideshare from the University of Waterloo)](http://www.slideshare.net/stephanie_piper/evaluating-open-data-26944330)
+6. [Open Data Handbook - Why Open Data?](http://opendatahandbook.org/en/why-open-data/)
+7. [Firms requiring geospatial data grow 15% more quickly per annum in countries where that data is free (via OKF)](http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data)
+8. [Deloitte - opening data increased re-use by 10x-100x (via OKF)](http://www.epsiplatform.eu/content/popsis-assessment-psi-charging-policies)
 
-###Principles
+###On Principle
 
 1. [Beyond Transparency](https://github.com/codeforamerica/beyondtransparency)
 2. [Open Data Handbook - Why Open Data?](http://opendatahandbook.org/en/why-open-data/)
 
-###Personal Values
+###A Collection of Personal Values
 1. [Make Web Not War - Open Data](http://markmacdonnell.wordpress.com/2014/03/04/open-data-make-web-not-war/)
 2. [Open Gov and Open Data are the Daft Punk of Government](http://www.youtube.com/watch?v=f9DtEUJwevo)
 3. [Craig Carter-Edwards - The Value of Your Time](http://cce-wakata.blogspot.ca/2014/03/the-value-of-your-time.html)
