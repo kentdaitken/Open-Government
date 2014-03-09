@@ -21,7 +21,7 @@ Social and commercial value is straightforward enough. Govlab recently did a cen
 
 Less waste, more productivity, less stress, better lives.
 
-But, #1 and #3 are trickier reasons, and we don't have a repeatable methodology for #2.
+But we don't have a repeatable methodology for gauging social and commercial value in new contexts. And, #1 and #3 are altogether trickier reasons to pin down.
 
 I'd rather someone else frame up a section on certain kinds of transparency (like the [International Aid Transparency Initiative](http://www.aidtransparency.net/), or corporate transparency.
 
