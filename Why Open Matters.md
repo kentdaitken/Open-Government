@@ -1,7 +1,7 @@
 Why Open Data Matters
 =====================
 
-This page is as much for me answering that question for myself as it is for collecting resources. Additions welcome.
+This page is as much for me answering that question for myself as it is for collecting resources. Additions welcome - ask me to make this public or [open an issue](https://github.com/kentdaitken/Open-Government/issues).
 
 ##Definition
 
