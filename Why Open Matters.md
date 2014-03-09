@@ -21,7 +21,7 @@ Social and commercial value is straightforward enough. Govlab recently did a cen
 
 Less waste, more productivity, less stress, better lives.
 
-But #1 and #3 are trickier reasons. I'll leave corporate transparency for another day (like the International Aid Transparency Initiative, and so on). But for government, the [relationship between transparency and participation](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation. It seems that much of the push for open is based on ideology and principles, which is fine. But there are other stakeholders to convince.
+But #1 and #3 are trickier reasons. I'll leave corporate transparency for another day (like the [International Aid Transparency Initiative](http://www.aidtransparency.net/), and so on). But for government, the [relationship between transparency and participation](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation. It seems that much of the push for open is based on ideology and principles, which is fine. But there are other stakeholders to convince.
 
 So if our goal is better societal outcomes, we have work to do in understanding both the economic and social benefits of open data, and developing a long-term lense on the idea.
 
