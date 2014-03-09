@@ -49,6 +49,7 @@ I've started a list of resources, here, to which I'd love additions.
 
 1. [*Beyond Transparency*](https://github.com/codeforamerica/beyondtransparency)
 2. [Open Data Handbook - *Why Open Data?*](http://opendatahandbook.org/en/why-open-data/)
+3. [Jodi Leblanc - *Understanding Open Data: Don't Get Left Behind*](http://cgexecblog.wordpress.com/tag/open-data/)
 
 ###A Collection of Personal Values
 1. [Make Web Not War - Open Data](http://markmacdonnell.wordpress.com/2014/03/04/open-data-make-web-not-war/)
