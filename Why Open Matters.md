@@ -1,7 +1,7 @@
 Why Open Data Matters
 =====================
 
-This page is as much for me figuring it out for myself as it is making resources available to you. Additions welcome.
+This page is as much for me answering that question for myself as it is for collecting resources. Additions welcome.
 
 ##Definition
 
