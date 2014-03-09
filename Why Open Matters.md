@@ -40,6 +40,8 @@ I've started a list of resources, here, to which I'd love additions.
 7. [Firms requiring geospatial data grow 15% more quickly per annum in countries where that data is free (via OKF)](http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data)
 8. [Deloitte - opening data increased re-use by 10x-100x (via OKF)](http://www.epsiplatform.eu/content/popsis-assessment-psi-charging-policies)
 
+###On Democratic Engagement
+
 ###On Principle
 
 1. [Beyond Transparency](https://github.com/codeforamerica/beyondtransparency)
