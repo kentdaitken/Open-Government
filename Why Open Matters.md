@@ -27,7 +27,7 @@ But for government operations, the [relationship between transparency and partic
 
 Regardless, it seems that much of the push for open is based on ideology and principles, which is fine. But there are other stakeholders to convince.
 
-So if our goal is better societal outcomes, we have work to do in understanding both the economic and social benefits of open data, and developing a long-term lense on the idea.
+So if our goal is better societal outcomes, we have work to do in understanding both the economic and social benefits of open data, and developing a long-term lens on the idea.
 
 I've started a list of resources, here, to which I'd love additions.
 
