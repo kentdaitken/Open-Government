@@ -3,7 +3,6 @@ Why Open Data Matters
 
 This page is a lot about trying to answer that question, and a little about having a shareable home for resources. Additions welcome - suggest an edit or [open an issue](https://github.com/kentdaitken/Open-Government/issues).
 
-Oh yeah, opinions are mine and don't reflect those of any organizations with which I am affiliated, etc. etc. 
 
 ##Definition
 
@@ -62,4 +61,10 @@ I've started a list of resources, here, to which I'd love additions.
 2. [Richard Pietro - *Open Gov and Open Data are the Daft Punk of Government*](http://www.youtube.com/watch?v=f9DtEUJwevo)
 3. [Craig Carter-Edwards - *The Value of Your Time*](http://cce-wakata.blogspot.ca/2014/03/the-value-of-your-time.html)
 4. [Richard Pietro - *What Open Government Means to Me*](http://myeinsteinjob.blogspot.ca/2012/05/what-open-government-means-to-me.html)
+
+
+####Lastly
+
+Opinions are mine and don't reflect those of any organizations with which I am affiliated.
+
 
