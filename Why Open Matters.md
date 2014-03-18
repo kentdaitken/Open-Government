@@ -24,9 +24,9 @@ Sometimes it's from business opportunities, sometimes it's from productivity ben
 
 However, we don't have a repeatable methodology for gauging social and commercial value in new contexts. And, transparency and public engagement are altogether trickier reasons to pin down.
 
--(I don't feel comfortable framing up a section on certain kinds of transparency (like the [International Aid Transparency Initiative](http://www.aidtransparency.net/), or corporate transparency.)
+(I don't feel comfortable framing up a section on certain kinds of transparency (like the [International Aid Transparency Initiative](http://www.aidtransparency.net/), or corporate transparency.)
 
--For government operations, the [relationship between transparency and participation](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation.
+For government operations, the [relationship between transparency and participation](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation.
 
 Regardless, it seems that much of the push for open is based on ideology and principles, which is fine. But there are other stakeholders to convince. So if our goal is better societal outcomes, we have work to do in understanding both the economic and social benefits of open data, and developing a long-term lens on the idea.
 
