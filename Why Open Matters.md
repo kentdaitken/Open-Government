@@ -10,7 +10,7 @@ This page is a lot about trying to answer that question, and a little about havi
 
 ##Background
 
-Open data is a curious thing. I'm a strong supporter, and the benefits appear to be many. But when I started trying to make the case I was struggling to find evidence for those requiring cold, hard numbers. I think this is partially because the idea is still new to many, and partially because it is by definition difficult to track the value and uses of data made open.
+Open data is a curious thing. I'm a strong supporter, and open data has amazing potential. But it's hard to make the case in cold, hard numbers. I think this is partially because the idea is still new to many, and partially because it is by definition difficult to track the value and uses of data made open.
 
 The [Open Knowledge Foundation](http://okfn.org/opendata/) lists three common reasons for why data should be open:
 
@@ -18,7 +18,7 @@ The [Open Knowledge Foundation](http://okfn.org/opendata/) lists three common re
 2. Releasing Social and Commercial Value
 3. Participation and Engagement
 
-Social and commercial value is straightforward enough. Govlab recently did a census of 500 US businesses largely powered by government data. McKinsey estimates the possibility for $3 trillion in additional value through open data. And Deloitte pegged the value of the [economy for social solutions](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm) at $50 billion in Canada, alone.
+**Social and commercial value** is straightforward enough. Govlab recently did a census of 500 US businesses largely powered by government data. McKinsey estimates the possibility for $3 trillion in additional value through open data. And Deloitte pegged the value of the [economy for social solutions](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm) at $50 billion in Canada, alone.
 
 Sometimes it's from business opportunities, sometimes it's from productivity benefits. For example, bus tracker apps: using open GPS data for public transit to give people a more reliable system with which to organize their commutes. Less waste, more productivity, less stress, better lives.
 
@@ -26,9 +26,9 @@ However, we don't have a repeatable methodology for gauging social and commercia
 
 (I don't feel comfortable framing up a section on certain kinds of transparency (like the [International Aid Transparency Initiative](http://www.aidtransparency.net/), or corporate transparency.)
 
-For government operations, the [relationship between transparency and participation](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation.
+For government operations, the [relationship between **transparency** and **participation**](http://democracyspot.net/2013/06/19/does-transparency-lead-to-trust-some-evidence-on-the-subject/) is complex, and needs more time and investigation.
 
-Regardless, it seems that much of the push for open is based on ideology and principles, which is fine. But there are other stakeholders to convince. So if our goal is better societal outcomes, we have work to do in understanding both the economic and social benefits of open data, and developing a long-term lens on the idea.
+Regardless, it seems that it's easier to make a case for open data on principle. But there are many stakeholders to convince. So if our goal is better societal outcomes, we have work to do in understanding both the economic and social benefits of open data, and developing a long-term lens on the idea.
 
 I've started a list of resources, here, to which I'd love additions.
 
