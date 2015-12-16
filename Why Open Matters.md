@@ -36,15 +36,21 @@ I've started a list of resources, here, to which I'd love additions.
 
 ###On Economic Value
 
-1. [McKinsey - *Open Data: Unlocking Innovation and Performance with Liquid Information*](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information) 
-2. [Deloitte - *The Solution Economy*](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm)
-3. [Govlab's Open Data 500 (businesses using open data)](http://thegovlab.org/wiki/Open_Data_500)
-4. [111 things that got built with federal government open data at CODE](https://canadianopendataexperience.com/teams)
-5. [Stephanie Piper - *The Value of Open Data* (Slideshare from the University of Waterloo)](http://www.slideshare.net/stephanie_piper/evaluating-open-data-26944330)
-6. [Open Data Handbook - *Why Open Data?*](http://opendatahandbook.org/en/why-open-data/)
-7. [Firms requiring geospatial data grow 15% more quickly per annum in countries where that data is free (via OKF)](http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data)
-8. [Deloitte - opening data increased re-use by 10x-100x (via OKF)](http://www.epsiplatform.eu/content/popsis-assessment-psi-charging-policies)
-9. [Open Data Use Cases and Personas](http://public.webfoundation.org/2013/06/ODD-UCR-Final.pdf)
+1. [McKinsey - *Open Data: Unlocking Innovation and Performance with Liquid Information*](http://www.mckinsey.com/insights/business_technology/open_data_unlocking_innovation_and_performance_with_liquid_information)
+2. [CapGemini - *The Open Data Economy*](https://www.capgemini-consulting.com/the-open-data-economy-0)
+3. [Deloitte - *The Solution Economy*](http://www.deloitte.com/view/en_CA/ca/insights/insights-and-issues/solutioneconomy/index.htm)
+4. [Deloitte - *Accelerating the Solution Economy*](http://www2.deloitte.com/ca/en/pages/insights-and-issues/articles/accelerating-the-solution-economy.html)
+5. [Deloitte - *Market Assessment of Public Sector Information*](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/198905/bis-13-743-market-assessment-of-public-sector-information.pdf)
+6. [Govlab's Open Data 500 (businesses using open data)](http://thegovlab.org/wiki/Open_Data_500)
+7. [Beth Simone Noveck - *From Faith-Based to Evidence-Based: The Open Data 500 and Understanding How Open Data Helps the American Economy*](http://www.forbes.com/sites/bethsimonenoveck/2014/01/08/from-faith-based-to-evidence-based-the-open-data-500-and-understanding-how-open-data-helps-the-american-economy/)
+8. [111 things that got built with federal government open data at CODE](https://canadianopendataexperience.com/teams)
+9. [Stephanie Piper - *The Value of Open Data* (Slideshare from the University of Waterloo)](http://www.slideshare.net/stephanie_piper/evaluating-open-data-26944330)
+10. [Open Data Handbook - *Why Open Data?*](http://opendatahandbook.org/en/why-open-data/)
+11. [Firms requiring geospatial data grow 15% more quickly per annum in countries where that data is free (via OKF)](http://www.epsiplatform.eu/content/finnish-study-psi-pricing-geo-data)
+12. [Deloitte - opening data increased re-use by 10x-100x (via OKF)](http://www.epsiplatform.eu/content/popsis-assessment-psi-charging-policies)
+13. [Open Data Use Cases and Personas](http://public.webfoundation.org/2013/06/ODD-UCR-Final.pdf)
+14. [Lateral Economics - *Open for Business: How Open Data Can Help Achieve the G20 Growth Target*](https://www.omidyar.com/insights/open-business)
+15. [Rufus Pollock - *The Economics of Public Sector Information*](http://rufuspollock.org/economics/#the-economics-of-public-sector-information-march-2009)
 
 ###On Democratic Engagement
 
