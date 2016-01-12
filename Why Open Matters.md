@@ -51,6 +51,7 @@ I've started a list of resources, here, to which I'd love additions.
 13. [Open Data Use Cases and Personas](http://public.webfoundation.org/2013/06/ODD-UCR-Final.pdf)
 14. [Lateral Economics - *Open for Business: How Open Data Can Help Achieve the G20 Growth Target*](https://www.omidyar.com/insights/open-business)
 15. [Rufus Pollock - *The Economics of Public Sector Information*](http://rufuspollock.org/economics/#the-economics-of-public-sector-information-march-2009)
+16. [A year in open data: Open data means business in 2015](http://theodi.org/blog/a-year-in-open-data-open-data-means-business-in-2015)
 
 ###On Democratic Engagement
 
