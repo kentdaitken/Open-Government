@@ -28,11 +28,17 @@ In the long run, we'll establish a better system and initial configuration, and 
 Open data stakeholders
 ===============
 
-To be clear: it depends. Many people are open data stakeholders in very indirect ways, in that businesses, governments, journalists, lobbyists, NGOs, and other civil society organizations can inform or improve their services to many citizens in indirect ways. Data journalism is an increasingly in-demand skill, but when it shows up in magazines and newspapers it often reads just like, well, journalism.
+To be clear: it depends. Many people are open data stakeholders in very indirect ways, in that businesses, governments, journalists, lobbyists, NGOs, and other civil society organizations can inform or improve their services to many citizens using open data. For example, data journalism is an increasingly in-demand skill, but when it shows up in magazines and newspapers it often reads just like, well, journalism.
 
 But some example open data users:
 
-Data scientists and researchers in government, business, and NGOs; transparency and accountability organizations; media; developers and coders; economists.
+Data scientists and researchers in government, business, and NGOs
+Transparency and accountability organizations (h/t Open North)
+Media
+Developers and coders
+Eeconomists.
+
+http://www.opennorth.ca/
 
 How is it being used?
 ===============
