@@ -6,7 +6,9 @@ Open Gov 101
 Open government refers generally to the idea that government information and decision-making processes should be transparent to citizens. In Canada, this means:
 
 Open data: publishing online the raw datasets created or collected by the government of Canada for a wide variety of purposes
+
 Open information: digital records, resources, publications, discussion papers, evidence of decisions, and scientific work
+
 Open dialogue: citizen engagement and the ability for citizens to influence government decision making processes
 
 The data lifecycle
