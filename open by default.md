@@ -1,4 +1,4 @@
-Notes and references for a presentation to Carleton's Data Science seminar series
+Notes and references - Open by Default - Carleton's Data Science seminar
 ===============
 
 Open Gov 101
