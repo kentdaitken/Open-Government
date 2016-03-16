@@ -13,13 +13,13 @@ Open government refers generally to the idea that government information and dec
 
 The data lifecycle
 ===============
-Government creates or collects data to improve decison making - all kinds of data. Transportation metrics, financial data, Grants and Contributions, census data, labour markets, pollutants, invasive species, product recalls, and a ton of geospatial data.
+Government creates or collects data to improve decison making. All kinds of data: transportation metrics, financial data, Grants and Contributions, census results, labour markets, pollutants, invasive species, product recalls, and a ton of geospatial data. And much more.
 
-For the government to make use of all this data, it gets cleaned, compared, analyzed, and visualized: from data to insights and knowledge.
+For the government to make use of all this data, it gets cleaned, compared, analyzed, and visualized, getting converted from data into insights and knowledge.
 
 https://dashboard.edmonton.ca/
 
-And now, released to the public. Ideally, we'd create the data from t=0 for that end state, using appropriate nomenclature, formats, and standards, and build that foundation. But there’s a gap in the IM pipeline: HR, IM, and communications policies were as much built for a pre-digital, pre-open world. Not everyone understands that they’re a data collector – we're adapting data to new contexts.
+And now, it gets released to the public. Ideally, we'd create the data from t=0 for that end state, using appropriate nomenclature, formats, and standards, and build that foundation. But there’s a gap in the IM pipeline: HR, IM, and communications policies were as much built for a pre-digital, pre-open world. Not everyone understands that they’re a data collector, and we're adapting data to new contexts.
 
 http://open.canada.ca/en/search/contracts
 
