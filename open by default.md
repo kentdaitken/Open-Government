@@ -66,13 +66,7 @@ The recent history of that might be open data hackathons, where governments rele
 
 http://open.canada.ca/en/canadian-open-data-experience-code
 
-However, over time that has - rightly - evolved into a transition away from "open data" hackathons to "specific problem" hackathons that will likely draw upon open data as one resource of many. Which is a reasonable parallel to the wider arc of open government:
-
-Today: open government is led by "open government" teams
-
-The goal: "open government" is a name that describes what happens across an ecosystem of players inside government (programs, policy, services) and outside.
-
-The "goal" state happens all the time, but it's not yet the standard. As William Gibson said, “the future is here, it’s just not evenly distributed.”
+However, over time that has - rightly - evolved into a transition away from "open data" hackathons to "specific problem" hackathons that will likely draw upon open data as one resource of many.
 
 So now we're seeing things like Dementia Hack, an accessibility hack called Inclusive Design, Aquahacking, Traffic Jam, and a data analysis competiton called Data Competition Canada (we've pitched datasets, but we won't know if they've opted to use them until the competition launches):
 
@@ -82,7 +76,15 @@ http://www.ottawariverkeeper.ca/aquahacking-ottawa-river-summit-2015/
 http://trafficjam.to/
 http://datacompetition.ca
 
-Which is the direction future CODE events will go as well. And we're looking for other ways to get more involved, and get people involved.
+All of which is a reasonable parallel to the wider arc of open government:
+
+Today: open government is led by "open government" teams
+
+The goal: "open government" is a name that describes what happens across an ecosystem of players inside government (programs, policy, services) and outside, as they work together and share information more freely. Eventually we'll just call it "government."
+
+The "goal" state happens all the time, but it's not yet the standard. As William Gibson said, “the future is here, it’s just not evenly distributed.”
+
+But we still have work do to as the "open government" team. So focusing on problems is the direction that future GC hackathons will go as well. And we're looking for other ways to get more involved, and get people involved.
 
 For instance, getting back to the Health Canada Recalls work, there are actually a handful of Data 5000 students at Carleton working with the Government of Canada now to determine if social product reviews can predict future recalls.
 
@@ -90,7 +92,7 @@ A quick note on the Green City Protohack event coming up in Ottawa:
 
 http://www.protohack.org/greencity
 
-This is the epitome of this trend. It's a specifically non-technical hackathon. Participants will discuss and prototype solutions to public challenges - scripting service interactions, or making web service mockups on paper - more to explore the problem and solution space. However, this Protohack may actually lead directly into a CODE event, where - if it really is the solution - technology and data can be brought to bear.
+This is the epitome of this trend. It's a specifically non-technical hackathon. Participants will discuss and prototype solutions to public challenges - scripting service interactions, or making web service mockups on paper - more to explore the problem and solution space. However, this Protohack may actually lead directly into a GC hackaton, where - if it really is the solution - technology and data can be brought to bear.
 
 The important thing is that it gets subject matter experts, social scientists, designers, and social innovators into the process as well, where they can work together with data analysts and tech builders. Which is why we were drawn to the idea of the Master's in Data Science in the first place, where the data science skills are built on economics, busieness, and research foundations.
 
@@ -103,8 +105,8 @@ http://opendataottawa.tumblr.com/
 
 
 Email us:
-kent.aitken@tbs-sct.gc.ca
-ashley.casovan@tbs-sct.gc.ca
+* kent.aitken@tbs-sct.gc.ca
+* ashley.casovan@tbs-sct.gc.ca
 
 Subscribe for updates:
 open-ouvert@tbs-sct.gc.ca
