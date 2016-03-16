@@ -32,11 +32,11 @@ To be clear: it depends. Many people are open data stakeholders in very indirect
 
 But some example open data users:
 
-*Data scientists and researchers in government, business, and NGOs
-*Transparency and accountability organizations (h/t Open North)
-*Media
-*Developers and coders
-*Economists.
+* Data scientists and researchers in government, business, and NGOs
+* Transparency and accountability organizations (h/t Open North)
+* Media
+* Developers and coders
+* Economists.
 
 http://www.opennorth.ca/
 
