@@ -16,4 +16,4 @@ Clarke’s closing section is titled “Digital era open government in Canada: u
 
 
 
-*Some disclosure: I asked for a copy of this book with the intention of writing about it, largley because I always appreciate Dr. Clarke's contribution to Canadian public administration discourse.
+*Some disclosure: I asked for a copy of this book with the intention of writing about it, largley because I always appreciate Dr. Clarke's contribution to Canadian public administration discourse.*
