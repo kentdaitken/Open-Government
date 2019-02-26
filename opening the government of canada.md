@@ -13,3 +13,7 @@ Clarke provides historical context as well as theory and community context, whic
 This pattern repeats throughout the book: for social media, widespread collaboration, digital services, and Open Government including platform government and citizen engagement.
 
 Clarke’s closing section is titled “Digital era open government in Canada: unfinished project, uncertain future.” I’ll close off this review with some brief editorializing for the future of that project. In my view, the history, principles, and competing perspectives have greater and greater value in an era of change. In a slow-moving, static world, principles about good public service could be embedded in policy and process and represented to the public through a limit number of spokespersons. In a dynamic, fast-paced world with constantly changing contexts, the policies and processes can’t keep up. Only the principles can, which can then be applied to new situations, platforms, and questions. Dr. Clarke’s book is a simultaneously a signpost for where the public service is headed, but also serves as the trail from where it’s been.
+
+
+
+*Some disclosure: I asked for a copy of this book with the intention of writing about it, largley because I always appreciate Dr. Clarke's contribution to Canadian public administration discourse.
