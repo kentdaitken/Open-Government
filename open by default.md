@@ -103,15 +103,8 @@ Ottawa has an amazing Open Data Ottawa community, and there are other meetups, c
 
 http://opendataottawa.tumblr.com/
 
-
-Email us:
-* kent.aitken@tbs-sct.gc.ca
-* ashley.casovan@tbs-sct.gc.ca
-
 Subscribe for updates:
 open-ouvert@tbs-sct.gc.ca
 
 Visit:
 http://open.canada.ca
-
-And to emphasize: the major reason I'd encourage you to sign up for the mailing list is that we'll invite you (pretty soon, actually) to weigh in on how the whole open government and open data idea works in Canada. In a very meaningful way. So if you're a researcher or librarian interested in open access or government science, we can use your input. Or an engaged citizen with thoughts on how we should do public participation in decision making. Or a data enthusiast with thoughts on how we should prioritize progress on the open data front. We really appreciate the feedback we get, and it helps us do our jobs.
